@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Timer_new-master1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\Timer_new-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Timer_new-master1\\app\\build\\intermediates\\res\\merged\\release\\layout\\reiki_widget.xml",
+        "source": "D:\\Timer_new-master1\\app\\src\\main\\res\\layout\\reiki_widget.xml"
+    },
+    {
+        "merged": "D:\\Timer_new-master1\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_item.xml",
+        "source": "D:\\Timer_new-master1\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Timer_new-master1\\app\\build\\intermediates\\res\\merged\\release\\layout\\mybutton.xml",
+        "source": "D:\\Timer_new-master1\\app\\src\\main\\res\\layout\\mybutton.xml"
+    },
+    {
+        "merged": "D:\\Timer_new-master1\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_alert_dialog.xml",
+        "source": "D:\\Timer_new-master1\\app\\src\\main\\res\\layout\\layout_alert_dialog.xml"
+    }
+]

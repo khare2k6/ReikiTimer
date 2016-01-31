@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ankitkha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Timer_new-master1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_fd128f463852e3d17c7ec200f76debe8b2bf4388.jar" />
+    </item>
+    <item
+        jar="D:\Timer_new-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Timer_new-master1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_9845bde4ba4e3925097ca15e381eed50e43941a1.jar" />
+    </item>
+    <item
+        jar="D:\Timer_new-master1\app\libs\InMobi-4.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="463fbaa62d07fe2acf338a111ed9fa3d9ea5fb62">
+        <dex dex="D:\Timer_new-master1\app\build\intermediates\pre-dexed\debug\InMobi-4.5.0_bf42e26003fff4549727b65e700853d43d0d1430.jar" />
+    </item>
+    <item
+        jar="D:\Timer_new-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Timer_new-master1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_11d6c6636dc6506083e62ec7f1e19ade894405f5.jar" />
+    </item>
+
+</items>
